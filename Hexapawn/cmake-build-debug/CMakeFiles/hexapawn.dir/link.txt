@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -O0 -g -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/hexapawn.dir/.ipd/lib/unittest-main.cpp.o CMakeFiles/hexapawn.dir/test/test.cpp.o CMakeFiles/hexapawn.dir/src/hexapawn.cpp.o  -o hexapawn .ipd/lib/unittest-cpp/libUnitTest++.a 

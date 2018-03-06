@@ -1,0 +1,9 @@
+/Users/wanpersonal/Desktop/07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wanpersonal/Desktop/07/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wanpersonal/Desktop/07/cmake-build-debug/CMakeFiles/hexapawn_without_test.dir
+/Users/wanpersonal/Desktop/07/cmake-build-debug/CMakeFiles/test.dir
+/Users/wanpersonal/Desktop/07/cmake-build-debug/CMakeFiles/hexapawn.dir
+/Users/wanpersonal/Desktop/07/cmake-build-debug/.ipd/lib/unittest-cpp/CMakeFiles/rebuild_cache.dir
+/Users/wanpersonal/Desktop/07/cmake-build-debug/.ipd/lib/unittest-cpp/CMakeFiles/edit_cache.dir
+/Users/wanpersonal/Desktop/07/cmake-build-debug/.ipd/lib/unittest-cpp/CMakeFiles/test.dir
+/Users/wanpersonal/Desktop/07/cmake-build-debug/.ipd/lib/unittest-cpp/CMakeFiles/UnitTest++.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wanpersonal/Desktop/07/src/hexapawn.cpp
+iostream
+-
+utility
+-
+stdexcept
+-
+vector
+-
+hexapawn.h
+/Users/wanpersonal/Desktop/07/src/hexapawn.h
+
+/Users/wanpersonal/Desktop/07/src/hexapawn.h
+iostream
+-
+utility
+-
+stdexcept
+-
+vector
+-
+
+/Users/wanpersonal/Desktop/07/src/main.cpp
+iostream
+-
+utility
+-
+stdexcept
+-
+vector
+-
+hexapawn.h
+/Users/wanpersonal/Desktop/07/src/hexapawn.h
+
